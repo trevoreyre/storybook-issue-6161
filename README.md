@@ -16,7 +16,7 @@ The react-scripts package provided by Create React App requires a dependency:
 Don't try to install it manually: your package manager does it automatically.
 However, a different version of webpack was detected higher up in the tree:
 
-  /Users/trevoreyre/src/helloworld/storybook-test/node_modules/webpack (version: 4.29.6)
+  /Users/trevoreyre/storybook-issue-6161/node_modules/webpack (version: 4.29.6)
 ```
 
 ## Steps to reproduce
